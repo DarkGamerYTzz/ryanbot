@@ -1,6 +1,6 @@
 const config = {
   
-  "ownerID": "Your ID",
+  "ownerID": "708545932677087263",
 
   "admins": ["Must be ID not your ID"],
 
@@ -10,7 +10,7 @@ const config = {
   
   "supporters": ["Must be ID not your ID"],
   
-  "token": 'TOKEN', //your token. You can obtain it at https://discordapp.com/developers/applications/
+  "token": 'NzE2MTI4MDY3NzkzNDUzMDk4.XtLmkw.6sOC4Kd0-_k7fb8LqnpiX5yb_z8', //your token. You can obtain it at https://discordapp.com/developers/applications/
   
   "defaultSettings" : {
     "prefix": ".",
